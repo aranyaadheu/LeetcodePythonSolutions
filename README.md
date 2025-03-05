@@ -1,2 +1,3 @@
 # LeetCode Prblms Solns
- This repo is to record my problem solving consistency on LeetCode platform. 
+
+This repository records my consistency in solving Leetcode problems in Python, along with their solutions.
